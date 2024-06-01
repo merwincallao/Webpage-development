@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <title>Biogrhapy</title>
+</head>
+<body styles" font-family: Arial;">
+       <center>
+      <table width="700px"border="2">
+       <tr>
+         <td rowspan="2">
+           <img src="https://scontent.fceb1-3.fna.fbcdn.net/v/t39.30808-6/438921054_1504987916720434_5575274021547619725_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF2RcXlbmpa22YqDu6FP2vPuXHwb0wEU4O5cfBvTARTg4a019Z4Wtal0qjApUpRerBpMKCbCwpqFCXka_6OQccP&_nc_ohc=xvhaoKpTqf0Q7kNvgHYbWFY&_nc_ht=scontent.fceb1-3.fna&oh=00_AYD294OYxZreUrZvM43YoJxN5CX2LePh5tkMBsCX3ehjvg&oe=66605659
+         <th width="500px" heigth="50px" bgcolor="Blue">My Biography</th>
+       </tr>
+       <tr>
+         <td>
+           <ul>
+             <li>Name: Callao Merwin Cabildo</li>
+             <li>Birth Date: November 05,2004</li>
+             <li>Birth Place: Candabong Manj,Neg,Or,li>
+            <li>Hobby: Gardening,eating,wathching movei</li> 
+             <li>Religion: Catholic</li>
+          </ul>
+         </td>
+      </tr>
+      <tr>
+         <th coispan="2" height="50px" bgcolor="Blue">About me</th>
+         </tr>
+         <td>
+       <tdcoispan="2">
+         <p> <em>My Name is <u>Merwin Cabildo Callao</u>. Im graduated in Korean Faithful Christian Pilgrims and now</em></p1><br><br>
+		 
+		 
+		 <p2> Im already studiying in NORSUBais City Course <br>BATCHELOR OF SCIENCE INDUSTRIAL TECNOLOGY 1st year College </p2>
+       </td>
+           </td>
+           <tr>
+             <th coispan="2"height="50px"bgcolor="Blue" >Social Media</th>
+             </tr>
+             <tr>
+               <td coispan="2">
+                 <p> Check me out on:</p>
+                 <ul>
+                   <li><a href="https://www.facebook.com//">Facebook Page</a></li>
+                 </ul>
+               </td>
+       </table>
+       </center>
+</body>
+</html>
+scontent.fceb8-1.fna.fbcdn.net
